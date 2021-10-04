@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a5ba791f-cba8-43ee-8846-3f37e7d10654/deploy-status)](https://app.netlify.com/sites/neilspaint/deploys)
+
 ## Paint web app
 
 - [General info](#general-info)
